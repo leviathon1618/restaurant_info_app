@@ -634,11 +634,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\resturant_app\\resturant_app\\resturant_app\\resturant_app.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\restaurant_info_app\\resturant_app\\resturant_app\\resturant_app\\resturant_app.csproj",
       "projectName": "resturant_app",
-      "projectPath": "C:\\Users\\User\\source\\repos\\resturant_app\\resturant_app\\resturant_app\\resturant_app.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\restaurant_info_app\\resturant_app\\resturant_app\\resturant_app\\resturant_app.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\resturant_app\\resturant_app\\resturant_app\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\restaurant_info_app\\resturant_app\\resturant_app\\resturant_app\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

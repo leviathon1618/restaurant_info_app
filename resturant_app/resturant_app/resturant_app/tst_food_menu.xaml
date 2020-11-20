@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="resturant_app.tst_food_menu">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Padding="20" Text="food menu"
+                
+                HorizontalOptions="CenterAndExpand" />
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#d1642e" WidthRequest="100" Text="sizzling steak" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#c7250c" WidthRequest="150" Text="mushrooms,olives,celery,choice of potatoes, coffee" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#8a0d04" WidthRequest="100" Text="price" />
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#d1642e" WidthRequest="100" Text="planked steak" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#c7250c" WidthRequest="150" Text="mushrooms, hot peppers, olives, celery, choice of potatoes, grilled onions,coffee" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#8a0d04" WidthRequest="100" Text="price" />
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#d1642e" WidthRequest="100" Text="filet mignon" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#c7250c" WidthRequest="150" Text="olives, celery mushrooms,choice of potatoes, grilled onions, coffee" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#8a0d04" WidthRequest="100" Text="price" />
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label HorizontalTextAlignment="Center " BackgroundColor="#d1642e" WidthRequest="100" Text="big small steak" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#c7250c" WidthRequest="150" Text="tomato juice, salad, choice of potatoes, grilled onions, coffee" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#8a0d04" WidthRequest="100" Text="price" />
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#d1642e" WidthRequest="100" Text="broiled pork chops" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#c7250c" WidthRequest="150" Text="tomato juice salad, potatoes, apple sauce, coffee" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#8a0d04" WidthRequest="100" Text="price" />
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#d1642e" WidthRequest="100" Text="large lamb chops" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#c7250c" WidthRequest="150" Text="tomato juice, salad,potatoes and coffee" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#8a0d04" WidthRequest="100" Text="price" />
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#d1642e" WidthRequest="100" Text="half barbecued chicken" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#c7250c" WidthRequest="150" Text="french fried potatoes, coleslaw, bread, butter and coffee" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#8a0d04" WidthRequest="100" Text="price" />
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#d1642e" WidthRequest="100" Text="half fried chicken" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#c7250c" WidthRequest="150" Text="french fried potatoes, coleslaw, bread, butter and coffee" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#8a0d04" WidthRequest="100" Text="price" />
+            </StackLayout>
+            <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#d1642e" WidthRequest="100" Text="barbecued ribs" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#c7250c" WidthRequest="150" Text="french fried potatoes, coleslaw, bread, butter and coffee" />
+                <Label HorizontalTextAlignment="Center" BackgroundColor="#8a0d04" WidthRequest="100" Text="price" />
+            </StackLayout>
+
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="resturant_app.food_page">
+    <ContentPage.Content>
+        <StackLayout>
+            <Label Text="drinks meunu"
+
+                HorizontalOptions="CenterAndExpand" />
+            <Label HorizontalOptions="CenterAndExpand" Text="bonded whiskey" />
+            <StackLayout Orientation="Horizontal">
+                <Label HorizontalOptions="CenterAndExpand" Text="old taylor&#x0a;old overholt&#x0a;old grand dad&#x0a;old crow&#x0a;old republic" />
+                <Label HorizontalOptions="CenterAndExpand" Text="40&#x0a;40&#x0a;40&#x0a;35&#x0a;30" />
+            </StackLayout>
+            <Label HorizontalOptions="CenterAndExpand" Text="bourbon whiskey" />
+            <StackLayout Orientation="Horizontal">
+                <Label HorizontalOptions="CenterAndExpand" Text="four roses&#x0a;golden wedding&#x0a;old oscar pepper&#x0a;bond and lillard&#x0a;ten high" />
+                <Label HorizontalOptions="CenterAndExpand" Text="35&#x0a;30&#x0a;30&#x0a;30&#x0a;25" />
+            </StackLayout>
+            <Label HorizontalOptions="CenterAndExpand" Text="blended whiskey" />
+            <StackLayout Orientation="Horizontal">
+                <Label HorizontalOptions="CenterAndExpand" Text="canadian club&#x0a;seagrams V.O.C&#x0a;seagrams 7 crown&#x0a;seagrams 5 crown&#x0a;lord calvert" />
+                <Label HorizontalOptions="CenterAndExpand" Text="40&#x0a;40&#x0a;35&#x0a;30&#x0a;40" />
+            </StackLayout>
+            <Label HorizontalOptions="CenterAndExpand" Text="rye whiskey" />
+            <StackLayout Orientation="Horizontal">
+                <Label HorizontalOptions="CenterAndExpand" Text="old quaker&#x0a;golden wedding&#x0a;paul jones&#x0a;town tavern&#x0a;green river" />
+                <Label HorizontalOptions="CenterAndExpand" Text="30&#x0a;30&#x0a;30&#x0a;20&#x0a;25" />
+            </StackLayout>
+            <Label HorizontalOptions="CenterAndExpand" Text="wines" />
+            <StackLayout Orientation="Horizontal">
+                <Label HorizontalOptions="CenterAndExpand" Text="tokay&#x0a;port&#x0a;sherry&#x0a;muscatel&#x0a;virginia dare sauternes" />
+                <Label HorizontalOptions="CenterAndExpand" Text="20&#x0a;20&#x0a;20&#x0a;20&#x0a;25" />
+            </StackLayout>
+            <Label HorizontalOptions="CenterAndExpand" Text="bottled beer" />
+            <StackLayout Orientation="Horizontal">
+                <Label HorizontalOptions="CenterAndExpand" Text="stroh's&#x0a;budweiser&#x0a;blue ribbon&#x0a;carlings ale" />
+                <Label HorizontalOptions="CenterAndExpand" Text="30&#x0a;30&#x0a;30&#x0a;25" />
+            </StackLayout>
+        </StackLayout>
+        
+
+
+    </ContentPage.Content>
+</ContentPage>

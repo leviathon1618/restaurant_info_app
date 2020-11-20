@@ -984,11 +984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\source\\repos\\resturant_app\\resturant_app\\resturant_app.iOS\\resturant_app.iOS.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Documents\\GitHub\\restaurant_info_app\\resturant_app\\resturant_app\\resturant_app.iOS\\resturant_app.iOS.csproj",
       "projectName": "resturant_app.iOS",
-      "projectPath": "C:\\Users\\User\\source\\repos\\resturant_app\\resturant_app\\resturant_app.iOS\\resturant_app.iOS.csproj",
+      "projectPath": "C:\\Users\\User\\Documents\\GitHub\\restaurant_info_app\\resturant_app\\resturant_app\\resturant_app.iOS\\resturant_app.iOS.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\source\\repos\\resturant_app\\resturant_app\\resturant_app.iOS\\obj\\",
+      "outputPath": "C:\\Users\\User\\Documents\\GitHub\\restaurant_info_app\\resturant_app\\resturant_app\\resturant_app.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1009,8 +1009,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "C:\\Users\\User\\source\\repos\\resturant_app\\resturant_app\\resturant_app\\resturant_app.csproj": {
-              "projectPath": "C:\\Users\\User\\source\\repos\\resturant_app\\resturant_app\\resturant_app\\resturant_app.csproj"
+            "C:\\Users\\User\\Documents\\GitHub\\restaurant_info_app\\resturant_app\\resturant_app\\resturant_app\\resturant_app.csproj": {
+              "projectPath": "C:\\Users\\User\\Documents\\GitHub\\restaurant_info_app\\resturant_app\\resturant_app\\resturant_app\\resturant_app.csproj"
             }
           }
         }

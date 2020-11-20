@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3XUz8+rN3XYvOoc6Mof9UjAae7p2GX5y/6ubA5x39CQflHJmnDlinb3zDCOesyA8Y21Cx7pUAppNfk6Gdxu1hw==",
+  "dgSpecHash": "Ygb4ECda/NFBd1/RQ70cFS4DfuuZq6wcx8eOhqE1vaMwLSTTrTY7EfDVPYl2F8p9ij8MnMnLe+0vgVkvXo26BQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\resturant_app\\resturant_app\\resturant_app.Android\\resturant_app.Android.csproj",
+  "projectFilePath": "C:\\Users\\User\\Documents\\GitHub\\restaurant_info_app\\resturant_app\\resturant_app\\resturant_app.Android\\resturant_app.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.runtime\\1.1.1.3\\xamarin.android.arch.core.runtime.1.1.1.3.nupkg.sha512",
