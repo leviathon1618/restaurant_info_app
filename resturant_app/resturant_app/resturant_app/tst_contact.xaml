@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="resturant_app.tst_contact">
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="#f5a076">
+
+            <Image Margin="20" HeightRequest="200" Source="contact_image.jpg" />
+            <Label FontSize="20" HorizontalOptions="CenterAndExpand" Text=" phone number : 027-950-1888" />
+            <Label FontSize="20" HorizontalOptions="CenterAndExpand" Text="Address 131 Queen Street,&#x0a;Auckland CBD, Auckland 1010 " />
+            <Label FontSize="20" HorizontalOptions="CenterAndExpand" Text="email : example_email.example.com" />
+            <Button FontSize="20" Text="MAP" HeightRequest="100" Clicked="map_Button_Clicked" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

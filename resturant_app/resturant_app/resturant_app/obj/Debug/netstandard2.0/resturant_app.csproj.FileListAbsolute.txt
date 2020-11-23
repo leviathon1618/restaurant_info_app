@@ -1,0 +1,17 @@
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\resturant_app.csprojAssemblyReference.cache
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\food_page.xaml.g.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\map_page.xaml.g.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\tst_contact.xaml.g.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\tst_food_menu.xaml.g.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\tst_menu.xaml.g.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\resturant_app.AssemblyInfoInputs.cache
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\resturant_app.AssemblyInfo.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\resturant_app.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\ref\resturant_app.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\resturant_app.pdb
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\bin\Debug\netstandard2.0\resturant_app.deps.json
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\bin\Debug\netstandard2.0\resturant_app.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\bin\Debug\netstandard2.0\ref\resturant_app.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\bin\Debug\netstandard2.0\resturant_app.pdb

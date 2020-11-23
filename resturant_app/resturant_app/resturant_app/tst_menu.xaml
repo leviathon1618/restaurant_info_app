@@ -7,7 +7,7 @@
             <Image HeightRequest="200" Source="texas_rangers_logo.jpg" />
             <Label FontSize="30" Text="chuck norris joke here"
                 HorizontalOptions="CenterAndExpand" />
-            <Button HeightRequest="100" Margin="30" Text="FOOD" Clicked="Food_Button_Clicked"/>
+            <Button HeightRequest="100" Margin="30" Text="FOOD" />
             <Button HeightRequest="100" Margin="30" Text="DRINKS" />
         </StackLayout>
     </ContentPage.Content>

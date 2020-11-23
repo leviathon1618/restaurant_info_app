@@ -3,8 +3,8 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="resturant_app.tst_food_menu">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Padding="20" Text="food menu"
+        <StackLayout BackgroundColor="#f5a076">
+            <Label Padding="20" FontSize="20" Text="food menu"
                 
                 HorizontalOptions="CenterAndExpand" />
             <StackLayout HorizontalOptions="CenterAndExpand" Orientation="Horizontal">
