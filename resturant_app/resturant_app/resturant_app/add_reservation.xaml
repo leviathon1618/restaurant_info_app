@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="resturant_app.add_reservation">
+    <StackLayout Margin="20">
+        <Editor Placeholder="Title"
+                Text="{Binding Title}"
+                HeightRequest="100" />
+        <Editor Placeholder="created by"
+                Text="{Binding CreatedBy}"
+                HeightRequest="100" />
+        <Editor Placeholder="select the ingredients"
+                Text="{Binding Ingredients}"
+                HeightRequest="100" />
+        <Editor Placeholder="enter the steps to make the dish"
+                Text="{Binding Steps}"
+                HeightRequest="100" />
+
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="Save" 
+                    Clicked="OnSaveButtonClicked" />
+            <Button Grid.Column="1"
+                    Text="Delete" 
+                    Clicked="OnDeleteButtonClicked"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>
