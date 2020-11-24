@@ -15,3 +15,7 @@ C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\r
 C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\bin\Debug\netstandard2.0\resturant_app.dll
 C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\bin\Debug\netstandard2.0\ref\resturant_app.dll
 C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\bin\Debug\netstandard2.0\resturant_app.pdb
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\add_reservation.xaml.g.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\reservation.xaml.g.cs
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\resturant_app.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app\obj\Debug\netstandard2.0\XamlC.stamp

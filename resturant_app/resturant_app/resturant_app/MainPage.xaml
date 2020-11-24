@@ -4,10 +4,14 @@
              x:Class="resturant_app.MainPage">
     <!--Pages can be added as references or inline-->
     <ContentPage Title="Menu" >
-        <StackLayout>
+        <StackLayout x:Name="QuoteListView" BindableLayout.ItemsSource="{Binding Norris}" >
             <Image HeightRequest="200" Source="texas_rangers_logo.jpg" />
-            <Label FontSize="30" Text="chuck norris joke here"
+
+
+            <Label FontSize="20" Text="{Binding value}"
                 HorizontalOptions="CenterAndExpand" />
+            
+            
             <Button HeightRequest="100" Margin="30" Text="FOOD" Clicked="Food_Button_Clicked"/>
             <Button HeightRequest="100" Margin="30" Text="DRINKS" Clicked="Drinks_Button_Clicked" />
         </StackLayout>
@@ -24,9 +28,7 @@
     </ContentPage>
     <ContentPage Title="Reservations" >
         <StackLayout >
-
-            <WebView VerticalOptions="FillAndExpand" Source="https://mobile.here.com/p/h-aHR0cHM6Ly9wbGFjZXMuYXBpLmhlcmUuY29tL3BsYWNlcy92MS9wbGFjZXMvNTU0ang3cHMtZWMwZTI2OTk0NmU3MDhmNzgwOWViM2IxMDFkODIwODE7Y29udGV4dD1abXh2ZHkxcFpEMDJNbUZtTldReVlTMDNPR00zTFRVMU0yWXRZVFE0WlMxa01EQmhPREZsT1RNNE1UWmZNVFl3TkRJNE56RTBOalUwTUY4ek9UUTRYekl5T0NaeVlXNXJQVEE%252FYXBwX2lkPTNLSVFsczJEU0tsTldmZGFzcEI5JmFwcF9jb2RlPWYydkRuMVRVWUVWbjRrWXR3SzM3eXc%253D?msg=The%20Coffee%20Club" />
-
+            <Button HorizontalOptions="Center" VerticalOptions="Center" FontSize="20" Text="manage reservations" HeightRequest="100" Clicked="Reservation_Button_Clicked" />
         </StackLayout>
     </ContentPage>
 </TabbedPage>

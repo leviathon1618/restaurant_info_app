@@ -465,3 +465,13 @@ C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\r
 C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\SQLite-net.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\SQLitePCLRaw.core.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\System.Buffers.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\System.Memory.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\Newtonsoft.Json.dll
+C:\Users\User\Documents\GitHub\restaurant_info_app\resturant_app\resturant_app\resturant_app.Android\obj\Debug\90\android\assets\RestSharp.dll
